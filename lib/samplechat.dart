@@ -1,4 +1,4 @@
-import 'package:custom_clippers/custom_clippers.dart';
+import 'package:custom_clippers/';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:chat/kontak.dart';

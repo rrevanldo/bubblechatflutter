@@ -195,6 +195,59 @@ class FirstPage extends StatelessWidget {
                             style: TextStyle(fontSize: 20),
                           ),
                         ),
+                        ListTile(
+                          leading: CircleAvatar(
+                            backgroundImage: AssetImage("images/kl.jpg"),
+                          ),
+                          title: Text("Jujutsu Squad",
+                            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20)),
+                          subtitle: Text('Besok Libur',
+                            style: TextStyle(fontWeight: FontWeight.bold)),
+                          trailing: Text(
+                            '12.34',
+                            style: TextStyle(fontSize: 20),
+                          ),
+                        ),
+                        ListTile(
+                          leading: CircleAvatar(
+                            backgroundImage: AssetImage("images/gj.jpg"),
+                          ),
+                          title: Text("penista gojo",
+                            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20)),
+                          subtitle: Text('banyak tugas',
+                            style: TextStyle(fontWeight: FontWeight.bold)),
+                          trailing: Text(
+                            '12.34',
+                            style: TextStyle(fontSize: 20),
+                          ),
+                        ),
+                        ListTile(
+                          leading: CircleAvatar(
+                            backgroundImage: AssetImage("images/sk.jpg"),
+                          ),
+                          title: Text("Grup Wibu",
+                            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20)),
+                          subtitle: Text('Haloo',
+                            style: TextStyle(fontWeight: FontWeight.bold)),
+                          trailing: Text(
+                            '12.34',
+                            style: TextStyle(fontSize: 20),
+                          ),
+                        ),
+                        ListTile(
+                          leading: CircleAvatar(
+                            backgroundImage: AssetImage("images/tj.jpg"),
+                          ),
+                          title: Text("Fans Toji",
+                            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20)),
+                          subtitle: Text('Aku Fushiguro',
+                            style: TextStyle(fontWeight: FontWeight.bold)),
+                          trailing: Text(
+                            '12.34',
+                            style: TextStyle(fontSize: 20),
+                          ),
+                        ),
+
                       ],
                     ),
                   ),
